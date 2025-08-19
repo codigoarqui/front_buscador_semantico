@@ -6,7 +6,7 @@ BUSQUEDA_URL = f"{API_BASE_URL}/buscar/"
 
 st.set_page_config(page_title="Buscador semántico", page_icon=":rocket:")
 st.title('Motor de Búsqueda Semántica')
-st.subheader('Consulta la API que creamos en el video anterior')
+st.subheader('Consulta la API')
 
 consulta = st.text_input("Escribe tu consulta aquí:")
 
