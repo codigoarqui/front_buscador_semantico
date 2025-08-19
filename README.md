@@ -24,8 +24,8 @@ Sigue estos pasos para poner a funcionar el frontend en tu máquina local.
 Si aún no lo has hecho, clona este repositorio a tu máquina local usando `git`:
 
 ```bash
-git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-cd nombre-del-repo
+git clone git@github.com:codigoarqui/front_buscador_semantico.git
+cd front_buscador_semantico
 ```
 
 ### 2. Configurar el Entorno de Python
