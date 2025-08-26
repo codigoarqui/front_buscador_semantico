@@ -59,7 +59,8 @@ pip install -r requirements.txt
 ## ▶️ Ejecutar la Aplicación
 
 ```bash
-streamlit run frontend.py
+streamlit run frontend.py --server.port 8501
+streamlit run frontend_rag.py --server.port 8502
 ```
 
 Streamlit abrirá automáticamente la aplicación en tu navegador web. Si no lo hace, puedes acceder a ella en `http://localhost:8501`.
