@@ -4,7 +4,7 @@ import streamlit as st
 API_BASE_URL = "http://localhost:8000"
 BUSQUEDA_URL = f"{API_BASE_URL}/rag/"
 
-st.set_page_config(page_title="Buscador semántico", page_icon=":rocket:")
+st.set_page_config(page_title="Buscador semántico RAG", page_icon=":rocket:")
 st.title('Motor de Búsqueda Semántica')
 st.subheader('Consulta la API')
 
