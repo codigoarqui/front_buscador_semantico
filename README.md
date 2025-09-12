@@ -62,6 +62,7 @@ pip install -r requirements.txt
 streamlit run frontend.py --server.port 8501
 streamlit run frontend_rag.py --server.port 8502
 streamlit run frontend_rag_conversacional.py --server.port 8503
+streamlit run frontend_vision.py --server.port 8504
 ```
 
 Streamlit abrirá automáticamente la aplicación en tu navegador web. Si no lo hace, puedes acceder a ella en `http://localhost:8501`.
